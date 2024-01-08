@@ -1,7 +1,29 @@
-### Hi there 👋
+<h1 align="center">Hi👋 I'm Nikita Patel</h1>
+<h3 align="center">A passionate MERN Stack Developer currently working on React.js and CSS</h3>
+<img align="right" alt="gif" 
+src="https://user-images.githubusercontent.com/122452175/232274061-90be0bad-008e-4c39-aa2e-d4a1dd187f45.gif"
+width="50%" >
+
+- 🔭 I’m currently working on **_[Grocery store]()_**
+
+- 🌱 I’m currently learning backend technologies (Node js)
+
+- 🤔 I’m looking for help with javaScript😭
+
+- 📫 reach me asap: ***nikitapatel411999@gmail.com***
+
+- 😄 Pronouns: She/her
+
+- ⚡ Fun fact: I love mural designing❤️ more than you🤣
+
+## What I'm focusing on👩‍💻
+
+Currently improving my Nodejs skill🎯
+
+BTW you can also connect with me on **_[Linkedin](https://www.linkedin.com/in/nikita-p-b95266257/)_**
 
 <!--
-**nikkip199/nikkip199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +36,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
